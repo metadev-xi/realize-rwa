@@ -6,6 +6,10 @@
   [![Version](https://img.shields.io/badge/version-1.0.0--mainnet-emerald.svg?style=for-the-badge)](https://0xtech.org)
   [![Status](https://img.shields.io/badge/status-live-success.svg?style=for-the-badge)](https://0xtech.org)
   [![Tech](https://img.shields.io/badge/stack-Polygon%20%7C%20Chainlink%20%7C%20React-black.svg?style=for-the-badge)](https://0xtech.org)
+
+[![Stars](https://img.shields.io/github/stars/metadev-xi/realize-rwa?style=social)](https://github.com/metadev-xi/realize-rwa)
+[![Forks](https://img.shields.io/github/forks/metadev-xi/realize-rwa?style=social)](https://github.com/metadev-xi/realize-rwa)
+[![Activity](https://img.shields.io/github/last-commit/metadev-xi/realize-rwa?style=flat-square&color=blue)](https://github.com/metadev-xi/realize-rwa)
 </div>
 
 ---
@@ -56,6 +60,17 @@ Realize RWA provides a comprehensive API surface for both frontend interactions 
 - **Telegram**: [Metadevxi](https://t.me/metadevxi)
 - **Website**: [https://0xtech.org](https://0xtech.org/)
 - **Email**: [metadevxi@gmail.com](mailto:metadevxi@gmail.com)
+
+
+## 🌟 Show Your Support
+
+If you find this project useful, please consider giving it a ⭐ on GitHub! It helps us keep the project active and reach more developers.
+
+- **Star this repo**
+- **Fork to customize**
+- **Follow for updates**
+
+---
 
 ## License
 
